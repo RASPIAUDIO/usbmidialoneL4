@@ -1,0 +1,3 @@
+usbd_midi_if_template.c:89:15:TEMPLATE_Init	16	static
+usbd_midi_if_template.c:103:15:TEMPLATE_DeInit	16	static
+usbd_midi_if_template.c:118:15:TEMPLATE_EventOUT	16	static

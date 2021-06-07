@@ -1,0 +1,4 @@
+usbd_midi_if.c:146:15:MIDI_Init_FS	16	static
+usbd_midi_if.c:159:15:MIDI_DeInit_FS	16	static
+usbd_midi_if.c:166:15:MIDI_EventOUT_FS	24	static
+usbd_midi_if.c:197:16:MIDI_StatusTX_FS	16	static
